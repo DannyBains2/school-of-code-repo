@@ -1,2 +1,2 @@
 # SchoolOfCode-repo
-Soc tutorial repo
+A repo for my tribute page for Alan Turing.
